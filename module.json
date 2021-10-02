@@ -13,6 +13,7 @@
             "path": "/packs/the-slithering-maps.db",
             "entity": "Scene"
         }
-    ]
-	"manifest": "https://raw.githubusercontent.com/Golurkcanfly/The-Slithering-HD-Maps/main/module.json"
+    ],
+	"manifest": "https://raw.githubusercontent.com/Golurkcanfly/The-Slithering-HD-Maps/main/module.json",
+	"download": "https://github.com/Golurkcanfly/The-Slithering-HD-Maps/archive/refs/heads/main.zip" 
   }
