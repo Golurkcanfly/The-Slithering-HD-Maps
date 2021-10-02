@@ -1,19 +1,21 @@
 {
-    "name": "the-slithering-hd-maps",
-    "title": "The Slithering HD Maps",
-    "description": "<p>A collection of HD maps for the official Paizo Adventure The Slithering using Forgotten Adventures assets. I do not own any of the material used to create or design the maps, and all credit should go to the original creators.</p>",
-    "version": "1.0.0",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.9",
+	"name": "the-slithering-hd-maps",
+	"title": "The Slithering HD Maps",
+	"description": "<p>A collection of HD maps for the official Paizo Adventure The Slithering using Forgotten Adventures assets. I do not own any of the material used to create or design the maps, and all credit should go to the original creators.</p>",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "0.8.9",
 	"author": "Golurkcanfly",
-    "packs": [
-        {
-            "name": "the-slithering-maps",
-            "label": "The Slithering HD Maps",
-            "path": "/packs/the-slithering-maps.db",
-            "entity": "Scene"
-        }
-    ],
+	"packs": 
+	[
+		{
+		"name": "the-slithering-maps",
+		"label": "The Slithering HD Maps",
+		"path": "/packs/the-slithering-maps.db",
+		"entity": "Scene"
+		}
+	],
+	"url": "https://github.com/Golurkcanfly/The-Slithering-HD-Maps",
 	"manifest": "https://raw.githubusercontent.com/Golurkcanfly/The-Slithering-HD-Maps/main/module.json",
-	"download": "https://github.com/Golurkcanfly/The-Slithering-HD-Maps/archive/refs/heads/main.zip" 
-  }
+	"download": "https://github.com/Golurkcanfly/The-Slithering-HD-Maps/archive/refs/heads/main.zip"
+}
