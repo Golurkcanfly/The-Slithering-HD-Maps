@@ -1,4 +1,5 @@
 # The-Slithering-HD-Maps
+## With Paizo now offering premium FoundryVTT modules for their adventures, this module will soon be obsolete. Please support the official release of the adventure!
 
 This is a Foundry VTT Module made for people looking to run the official Paizo Adventure The Slithering with HD map assets instead of the default maps included in the pdf. This module does not include any other material for the adventure such as journals, creature entries, or other copyrighted content. This module is also limited to the maps already within the adventure, and maps that were not already present in the adventure (such as single-encounter maps) are not included.
 
